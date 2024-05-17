@@ -11,6 +11,7 @@ list_of_files = [
     f"src/{package_name}/mongocrud.py",
     "tests/__init__.py",
     "tests/unit/__init__.py",
+    "tests/unit/unit.py",
     "tests/integration/__init__.py",
     "tests/integration/int.py"
     "init__setup.sh",
